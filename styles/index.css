@@ -1,0 +1,8 @@
+.grid_container {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-gap: 15px;
+    
+    background-color: blueviolet;
+}

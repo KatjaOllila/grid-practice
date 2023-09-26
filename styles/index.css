@@ -30,3 +30,11 @@
     grid-row: 1/7;
     grid-column: 3/5;
 }
+.fifth {
+    grid-row: 7/9;
+    grid-column: 3/4;
+}
+.sixth {
+    grid-row: 9/11;
+    grid-column: 3/4;
+}
